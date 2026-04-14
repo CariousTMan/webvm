@@ -1,5 +1,5 @@
 // The root filesystem location
-export const diskImageUrl = "diskImage: "https://github.com/CariousTMan/webvm/releases/download/xfce-v1/debian_xfce.ext2"";
+export const diskImageUrl = "diskImage: export const diskImageUrl = "https://github.com/CariousTMan/webvm/releases/download/xfce-v1/debian_xfce.ext2";
 // The root filesystem backend type
 export const diskImageType = "cloud";
 // Print an introduction message about the technology
