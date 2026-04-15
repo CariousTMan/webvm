@@ -1,6 +1,6 @@
 <script>
 import WebVM from '$lib/WebVM.svelte';
-import * as configObj from '/config_terminal';
+import * as configObj from '/config_public_alpine';
 import { tryPlausible } from '$lib/plausible.js';
 function handleProcessCreated(processCount)
 {
